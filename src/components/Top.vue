@@ -7,14 +7,14 @@
             <h1 class="md:text-4xl text-3xl md:w-2/5 text-center font-semibold">What Exellence Us</h1>
         </div>
 
-        <div class="images md:flex md:space-x-10 md:space-y-0 space-y-5 md:w-11/12 justify-center mx-auto text-center">
-            <div class="img1 md:w-1/2 m-2 p-5 shadow-xl bg-gray-200 mx-auto rounded-xl">
+        <div class="images md:flex md:space-x-10 md:space-y-2 space-y-5 md:w-11/12 justify-center mx-auto text-center">
+            <div class="img1 md:w-1/2 h-22 m-2 p-5 shadow-xl bg-gray-200 mx-auto rounded-xl">
                 <p class="py-2 font-bold mt-48 text-2xl">Safe Package Delivery</p>
             </div>
-            <div class="img2 md:w-1/2 m-2 p-5 shadow-xl bg-gray-200 mx-auto rounded-xl">
+            <div class="img2 md:w-1/2 h-22 m-2 p-5 shadow-xl bg-gray-200 mx-auto rounded-xl">
                 <p class="py-2 font-bold mt-48 text-2xl">On-Time Delivery</p>
             </div>
-            <div class="img3 md:w-1/2 m-2 p-5 shadow-xl bg-gray-200 mx-auto rounded-xl">
+            <div class="img3 md:w-1/2 h-22 m-2 p-5 shadow-xl bg-gray-200 mx-auto rounded-xl">
                 <p class="py-2 font-bold mt-48 text-2xl">Door to Door Delivery</p>
             </div>
         </div>

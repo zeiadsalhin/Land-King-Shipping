@@ -17,7 +17,7 @@
                 varius scelerisque at bibendum tortor ante a diam.</p>
         </div>
 
-        <div class="images md:flex space-x-5 space-y-5 md:space-y-0 justify-center mx-auto text-center">
+        <div class="images md:flex md:space-x-5 justify-center mx-auto text-center">
             <div class="img md:w-1/2 h-22 m-2 p-5 shadow-xl bg-gray-200  rounded-xl"><img class="mx-auto m-8" width="100"
                     height="100" src="/liability.svg">
                 <p class="py-2 font-bold text-xl">Our Liability</p>
